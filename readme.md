@@ -5,7 +5,7 @@
 npm test
 ```
 
-## Run
+## Run application
 Type input after run the start command
 ```
 npm start
