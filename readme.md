@@ -1,4 +1,4 @@
-# A simple excel application implementation
+# A simple excel implementation
 
 ## Run tests
 ```
